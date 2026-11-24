@@ -4,6 +4,7 @@ expediente: "MPF00494439"
 original_filename: "MPF00494439_Art._199,_a).-_L_2303.__Archivo_de_la_denuncia_y_actuaciones_de_prevención__Atipicidad_1600873727.pdf"
 fecha_creacion_pdf: "2020-09-23T12:08:47-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/denuncia-falso-testimonio.e0323.eml"
+firma_digital: "JUAN ERNESTO ROZAS Sep 23 2020 12:08:49; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA

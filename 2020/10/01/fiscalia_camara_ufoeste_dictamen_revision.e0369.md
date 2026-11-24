@@ -4,6 +4,7 @@ expediente: "MPF00494439"
 original_filename: "DictamenDeRevision-23560-1601575267 (1).pdf"
 fecha_creacion_pdf: "2020-10-01T15:01:07-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/notifica-causa-mpf-494439-schinocca-y-ga.e0369.eml"
+firma_digital: "SERGIO MARTIN LAPADU Oct 01 2020 15:01:09; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA

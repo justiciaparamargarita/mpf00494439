@@ -4,6 +4,7 @@ expediente: "MPF00494439"
 original_filename: "DictamenDeRevision-23667-1602334664.pdf"
 fecha_creacion_pdf: "2020-10-10T09:57:44-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/notifica-resolucion-de-fiscalia-de-camar.e0383.eml"
+firma_digital: "SERGIO MARTIN LAPADU Oct 10 2020 09:57:45; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA

@@ -4,6 +4,7 @@ expediente: "MPF00494439"
 original_filename: "MPF00494439_Art._199,_d).-_L_2303_Archivo_de_la_denuncia_y_actuaciones_de_prevención__Falta_de_prueba_sobre_la_materialidad_del_hecho._Disposición_1601927861.pdf"
 fecha_creacion_pdf: "2020-10-05T16:57:41-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/notifica-causa-mpf-494439-schinocca-y-ga.e0369.eml"
+firma_digital: "JUAN ERNESTO ROZAS Oct 05 2020 16:57:42; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
